@@ -1,0 +1,2 @@
+# Machine_Learning_Reinforcement_Learning_Models
+A collection of self-practice reinforcement learning models, including the Multi-Armed Bandit algorithms such as Upper Confidence Bound (UCB) and Thompson Sampling, implemented in Python. These models explore how an agent learns optimal actions through trial-and-reward feedback and are applied on example datasets to illustrate decision-making under uncertainty.
